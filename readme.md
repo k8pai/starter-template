@@ -22,7 +22,7 @@ Install dependencies
 Generate compiled tailwind css
 
 ```bash
-  npx tailwindcss -i ./src/css/index.css -0 ./dist/index.css
+  npx tailwindcss -i ./src/css/index.css -o ./dist/index.css
 ```
 
  ###### -i contains custom css path.
